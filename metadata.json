@@ -1,0 +1,6 @@
+{
+  "name": "Mashallah Plywood & Hardware Store",
+  "description": "Premium business website for Mashallah Plywood & Hardware Store in Lahore, Pakistan. Featuring quality plywood, hardware, power tools, building supplies, WhatsApp order integration, and contractor quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
